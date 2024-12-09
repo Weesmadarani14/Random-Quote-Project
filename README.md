@@ -1,1 +1,3 @@
-# Random-Quote-Project
+Welcome! I created a project that will generate a random quote upon a click. I searched for quotes online and picked the ones I liked the most. I then put the quotes in one array and the author in another array then linked both arrays to match the author with their quote. 
+
+** I've been working on this project on CodePen but was having difficulties linking React to my project. I've copied everything onto Visual Studio Code and will continue to work and finish everything on Visual Studio. 
