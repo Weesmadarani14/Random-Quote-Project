@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: silver;
+  }
+  
+  #quote-box {
+    background-color: white;
+  }
+  
